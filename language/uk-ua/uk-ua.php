@@ -1,6 +1,6 @@
 <?php
 // Locale
-$_['code']                  = 'ru-ru';
+$_['code']                  = 'uk-ua';
 $_['direction']             = 'ltr';
 $_['date_format_short']     = 'd.m.Y';
 $_['date_format_long']      = 'l, d F Y';
@@ -16,8 +16,8 @@ $_['text_disabled']                 = 'Отключено';
 $_['text_back']                     = 'Назад';
 $_['text_forward']                  = 'Вперед';
 $_['text_home']                     = '<i class="fa fa-home"></i>';
-$_['text_yes']                      = 'Да';
-$_['text_no']                       = 'Нет';
+$_['text_yes']                      = 'Так';
+$_['text_no']                       = 'Ні';
 $_['text_none']                     = ' --- Не выбрано --- ';
 $_['text_noname']                   = 'Без названия';
 $_['text_all']                      = 'Все';
